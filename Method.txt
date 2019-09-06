@@ -1,7 +1,0 @@
-
-
-1. Read and understand the code thoroughly
-
-2. Minimize browser and recreate the code
-
-3. If stuck after making several attempts, read the code again
